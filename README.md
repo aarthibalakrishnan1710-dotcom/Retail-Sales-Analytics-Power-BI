@@ -4,7 +4,8 @@ An end-to-end retail sales analytics project using Python, MySQL, SQL and Power 
 
 ## Dashboard Preview
 
-![Retail Sales Analytics Dashboard](Retail_Sales_Analytics_Dashboard.png)
+<img width="768" height="432" alt="Retail_sales_analytics_dashboard" src="https://github.com/user-attachments/assets/9065d1c0-7216-4bcb-9177-eae96b8ab65e" />
+
 
 ## Tools & Technologies
 
