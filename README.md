@@ -1,4 +1,4 @@
-# Retail Sales Analytics — Power BI
+# Retail Sales & Profitability Analysis — Power BI
 
 An end-to-end retail sales analytics project using Python, MySQL, SQL and Power BI to clean, analyze and visualize 51K+ retail transactions.
 
